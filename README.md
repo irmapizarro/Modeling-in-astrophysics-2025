@@ -65,7 +65,7 @@ Se modela la emisión espectral de objetos estelares jóvenes (YSOs) combinando 
 
 ## 📌 Créditos
 
-- **Estudiante**: Irma Pizarro  
+- **Estudiante**: Irma Pizarro, Ángel Paisano, Nicolas Campos
 - **Curso**: Modelamiento en Astrofísica (USACH, 2025A)  
 - **Profesores**: Ileyk El Mellah, [Nombre profesor Proyecto 2], [Nombre profesor Proyecto 3]
 
